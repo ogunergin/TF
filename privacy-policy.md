@@ -3,7 +3,7 @@ Privacy Policy
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at the TikFetch app, how the TikFetch app uses it, and what choices you have.
-The TikTok Video Downloader app was built as a free app. 
+The TikFetch app was built as a free app. 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. However, please note that we do not collect, store, or share any personal data or information from your device. The app's sole purpose is to download TikTok videos directly to your device based on the URL you provide.
 We do not collect any personal data or information, and there are no backend servers storing your data. Everything is processed locally on your device.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible on our website unless otherwise defined in this Privacy Policy.
